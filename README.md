@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Ommy! 👋
 
-<!--
-**its-ommy/its-ommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** at the University of Dodoma (UDOM)  
+💻 Passionate about building web applications,data analysis and machine learning, software tools, and data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+- **Programming Languages:** Python, PHP, C++, JavaScript, SQL
+- **Web Technologies:** HTML5, CSS3, Flexbox/Grid
+- **Databases & Tools:** MySQL, MariaDB, Git, Git Bash
+
+---
+
+### 🚀 What I'm Working On
+- 🛒 **UniTrade:** An online marketplace platform tailored for university students.
+- 📊 Data analysis and machine learning workflows using Python.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [Omary Mmambe](https://www.linkedin.com/in/www.linkedin.com/in/omary-mmambe-a288973a3)
+- **Location:** Dodoma, Tanzania
